@@ -1,0 +1,2 @@
+# TESTPROJBLA1223_config
+This is config for TESTPROJBLA1223
